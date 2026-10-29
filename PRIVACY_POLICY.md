@@ -29,5 +29,5 @@ Collected data is used exclusively to:
 
 ## 5. Contact
 To request data deletion or ask questions about this Privacy Policy, please contact:
-- **Discord:** [O teu User/Tag no Discord ou Servidor de Suporte]
-- **Email:** [O teu email de contacto]
+- **Discord:** dyas_7
+- **Email:** tiagolh.dias355@gmail.com
